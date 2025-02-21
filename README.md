@@ -1,4 +1,4 @@
-📊 Excel Pivot Table Data Analysis
+Excel Pivot Table Data Analysis
 This project leverages Excel Pivot Tables to analyze multiple datasets across different domains, uncovering key insights and trends.
 
 Dataset Download
@@ -46,5 +46,5 @@ A master dataset aggregating all the above into one structured file for broader 
 Tools Used:
 Excel Pivot Tables for data summarization and trend analysis.
 Basic Statistics to interpret key insights.
-This project showcases the power of Excel in analyzing diverse datasets efficiently. 🚀📊
+This project showcases the power of Excel in analyzing diverse datasets efficiently. 
 
