@@ -4,8 +4,8 @@ This project leverages Excel Pivot Tables to analyze multiple datasets across di
 Dataset Download
 Due to file size limits, the datasets are available for download here:
 
-🔗 https://docs.google.com/spreadsheets/d/1Gw1ez119brwzKBesb7OBy3spMZ79I0KT/edit?usp=drive_link&ouid=106909808790301394460&rtpof=true&sd=true
-🔗 https://docs.google.com/spreadsheets/d/1Nj9DVW36BsZJ0SSAGMOnqqBXQIbYLxo6/edit?usp=drive_link&ouid=106909808790301394460&rtpof=true&sd=true
+🔗 https://docs.google.com/spreadsheets/d/14EqCTmfIASV_i6LNWtcYqAWIt-gCHTsg/edit?usp=sharing&ouid=115283539876278132351&rtpof=true&sd=true
+🔗 https://docs.google.com/spreadsheets/d/12LyuwD5NxRyP2iC0aDhusoNDVIHDtExq/edit?usp=sharing&ouid=115283539876278132351&rtpof=true&sd=true
 
 Analysis Breakdown
 1- Stock Market Trends Analysis
